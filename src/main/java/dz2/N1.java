@@ -26,7 +26,7 @@ class Massive{
                 count = count + 1;
             }
         }
-        System.out.println("Четных элинтов(не считая '0'): " + count);
+        System.out.println("Четных элимтов(не считая '0'): " + count);
     }
     void maxmin(){
         int temp = array[0];
