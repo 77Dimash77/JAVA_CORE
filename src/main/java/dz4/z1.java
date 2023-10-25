@@ -44,7 +44,8 @@ public class z1 {
     }
 
     public static void main(String[] args) {
-        String[][] input = {{"David", "a1111111111111111111", "a1111111111111111111"}, {"12312321", "", ""}};
+        String[][] input = {{"David", "a1111111111111111111", "a1111111111111111111"},
+                {"12312321", "", ""}};
         for (int i = 0; i < input.length; i++) {
             try {
                 System.out.println(checkinfo(input[i][0],input[i][1],input[i][2]));
