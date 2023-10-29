@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebfecc95-60a7-4900-b196-b346d44702cd" name="Changes" comment="JavaCoreSeminarDZ4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dz5/Final.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz4/z1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz4/z1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dz4/z2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dz4/z2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +74,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.dz4.z2">
-    <configuration name="N1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dz2.N1" />
+  <component name="RunManager" selected="Application.Final">
+    <configuration name="Final" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz5.Final" />
       <module name="JAVA_CORE_HOME1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dz2.*" />
+          <option name="PATTERN" value="dz5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Final" />
         <item itemvalue="Application.dz4.z2" />
         <item itemvalue="Application.dz4.z1" />
         <item itemvalue="Application.z2" />
         <item itemvalue="Application.z1" />
-        <item itemvalue="Application.N1" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698266791338</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="JavaCoreSeminarDZ4">
+      <created>1698267720566</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698267720566</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
